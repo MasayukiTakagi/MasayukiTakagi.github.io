@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+.contents {
+    margin: 16px auto;
+    text-align: center;
+    border: 1px solid #000;
+}
+
+.contents_ul {
+    padding-left: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.contents_li {
+    text-align: left;
+
+    padding: 4px;
+    
+    border: 1.5px solid  #666666;
+    
+    border-radius: 5px;
+    
+    background: linear-gradient(#ffffff,#888888);
+    
+}
+
+
+
